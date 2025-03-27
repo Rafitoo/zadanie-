@@ -1,0 +1,17 @@
+{
+  "name": "Przewodnik po londynie ",
+  "short_name": "Londonguide",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icon": [
+    {
+      "src" : "ico.png",
+      "sizes" : "512x512",
+      "type" : "image/png"
+    }
+  ]
+}
